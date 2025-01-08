@@ -1,4 +1,4 @@
-👋 I’m Tomas Henkenhaf ([@1995th](https://github.com/1995th))
+👋 I’m Tomas Henkenhaf
 
 🔥 Passionate about developing technology that benefit humans with productivity ([DummyForms](https://dummyforms.com/) & [KillerStudy](https://killerstudy.com/)) and healthcare ([Dentli™](https://dentli.ca/))
 
